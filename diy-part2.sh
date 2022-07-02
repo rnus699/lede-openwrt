@@ -16,4 +16,4 @@ echo '### Updates default IP gate ###'
 
 rm -rf package/feeds/luci/luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/feeds/luci/luci-theme-argon
-# echo '### Updates Theme Argon ###'
+echo '### Updates Theme Argon ###'
