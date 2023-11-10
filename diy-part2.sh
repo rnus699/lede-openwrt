@@ -19,5 +19,4 @@
 # package/lean/luci-theme-argon /package/feeds/luci/luci-theme-argon
 # rm -rf package/feeds/luci/luci-theme-argon
 git clone -b luci-smartdns-dev https://github.com/xiaorouji/openwrt-passwall.git package/passwall
-git clone filebrowser https://github.com/xiaozhuai/luci-app-filebrowser.git package/filebrowser
 # echo '###  ###'
