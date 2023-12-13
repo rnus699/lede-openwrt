@@ -4,7 +4,7 @@ src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages
 src-git openclash https://github.com/vernesong/OpenClash
-src-git filebrowser https://github.com/xiaozhuai/luci-app-filebrowser
+src-git filebrowser https://github.com/filebrowser/filebrowser
 # src-git small https://github.com/kenzok8/small
 # src-git kiddin9 https://github.com/kiddin9/openwrt-packages
 # src-git kenzo https://github.com/kenzok8/openwrt-packages
