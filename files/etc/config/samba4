@@ -2,20 +2,20 @@
 config samba
 	option workgroup 'WORKGROUP'
 	option charset 'UTF-8'
-	option macos '0'
-	option name 'Telegram'
+	option name 'Discuzamoy'
 	option description 'OpenWRT'
 	option homes '1'
+	option macos '0'
 
 config sambashare
 	option auto '1'
-	option path '/mnt/sda4'
 	option read_only 'no'
 	option guest_ok 'yes'
 	option dir_mask '0777'
-	option device 'sda4'
+	option device 'sda1'
 	option inherit_owner 'yes'
-	option name 'Telegram'
+	option name 'Discuzamoy'
+	option path '/mnt/sda4'
 	option force_root '1'
 	option create_mask '0777'
 
