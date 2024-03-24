@@ -2,10 +2,14 @@ src-git packages https://github.com/coolsnowwolf/packages
 src-git luci https://github.com/coolsnowwolf/luci
 src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
-src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages
+src-git small https://github.com/chardsonRi/Smal
 src-git openclash https://github.com/vernesong/OpenClash
+#src-git mosdns https://github.com/sbwml/luci-app-mosdns
+#src-git jerrykuku https://github.com/jerrykuku/lua-maxminddb
+#src-git smartdns https://github.com/pymumu/smartdns
+#src-git passwall https://github.com/xiaorouji/openwrt-passwall -b luci-smartdns-dev
+#src-git helloworld https://github.com/fw876/helloworld
 #src-git passwall https://github.com/xiaorouji/openwrt-passwall
-#src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
